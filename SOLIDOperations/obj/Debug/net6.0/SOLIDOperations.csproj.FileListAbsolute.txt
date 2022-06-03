@@ -1,0 +1,15 @@
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\bin\Debug\net6.0\SOLIDOperations.exe
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\bin\Debug\net6.0\SOLIDOperations.deps.json
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\bin\Debug\net6.0\SOLIDOperations.runtimeconfig.json
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\bin\Debug\net6.0\SOLIDOperations.dll
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\bin\Debug\net6.0\SOLIDOperations.pdb
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\obj\Debug\net6.0\SOLIDOperations.csproj.AssemblyReference.cache
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\obj\Debug\net6.0\SOLIDOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\obj\Debug\net6.0\SOLIDOperations.AssemblyInfoInputs.cache
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\obj\Debug\net6.0\SOLIDOperations.AssemblyInfo.cs
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\obj\Debug\net6.0\SOLIDOperations.csproj.CoreCompileInputs.cache
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\obj\Debug\net6.0\SOLIDOperations.dll
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\obj\Debug\net6.0\refint\SOLIDOperations.dll
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\obj\Debug\net6.0\SOLIDOperations.pdb
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\obj\Debug\net6.0\SOLIDOperations.genruntimeconfig.cache
+C:\Users\bayra\Desktop\BankingService\SOLIDOperations\obj\Debug\net6.0\ref\SOLIDOperations.dll

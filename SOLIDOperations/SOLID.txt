@@ -1,0 +1,52 @@
+Solid Prinsiples:
+
+    -> Single Responsibility:
+        Each class should be have only one sole purpose,
+        and not be filled with excessive functionality.
+
+        Benefits:
+            - Easier to understand,
+            - Easier to maintain,
+            - Changed less frequently,
+            - Easily and thoroughly testable.
+
+    -> Open/Closed:
+        Clases should be open for extension, but
+        closed for modification.
+        
+        Benefits:
+            - Not allowing modification provides the 
+            advantage of not introducing bugs,
+            - All dependent clases will not need to adapt.  
+
+
+    -> Liskov Substitution:
+        Means that every subclass should be substitutable by is
+        base class without having any negative impact to the caller.
+
+        Benefits:
+            - Callers does not get surprising behavior when substitution
+            applies, 
+            - Complex bug which might arise due to conflicting behavior 
+            between inheritance is avoided easily.
+
+
+    -> Interface Segregation Prinsiple:
+        The prinsple is all abuot separating interfaces. Basically
+        multiple specific interfaces are better than generic single 
+        interface.
+
+        Benefits:
+            - Same as SRP, easier to menage and maintain,
+            - Works hand in hand with SRP.
+
+    -> Dependency Inversion Prinsiple:
+        According to the Dependency Inversion Prinsiple, clases should 
+        only depent on contracts, meaning interfaces or abstract classes
+        rather than concrate implementation.
+        As you see this is very closely related  to Open/Close Prinsiple.
+
+        
+References:
+    https://www.youtube.com/watch?v=9qvCeRt9_hM
+    https://www.youtube.com/watch?v=_jDNAf3CzeY
