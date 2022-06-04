@@ -8,7 +8,7 @@
 - Bu API ile Temel CRUD işlemlerini yapılabilecek [X]
 
 ### Opsiyonel [X]
-- Katmanlı mimari veya bildiğiniz tüm bilgileri bu API ye uygulayabilirsiniz [X]
+- Katmanlı mimari veya bildiğiniz tüm bilgileri bu API ye uygulayabilirsiniz 
 - Code first yaklaşımı kullanılacak [X]
 
 ## ÖDEV 2 : SOLID prensiblerini uyguladığınız basit bir uygulama [X]
